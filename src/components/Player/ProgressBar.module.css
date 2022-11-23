@@ -1,0 +1,7 @@
+.slider {
+  @apply bg-ui1 w-full h-[20px] relative rounded-full overflow-hidden;
+}
+
+.sliderTime {
+  @apply w-36 bg-amber-50  h-full transition-[width] ease-out duration-1000;
+}
